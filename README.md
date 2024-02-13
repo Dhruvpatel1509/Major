@@ -1,2 +1,2 @@
-# Major
-Major project
+# Title view and search
+Title view and search
